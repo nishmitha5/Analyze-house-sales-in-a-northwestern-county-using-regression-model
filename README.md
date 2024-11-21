@@ -61,9 +61,9 @@ The dataset used in this project includes real estate transaction records with f
    * Train the regression model
    * Generate predictions and visualizations
 
-## Results
-# Model Performance: 
-# Residual Analysis
+# Results
+## Model Performance: 
+## Residual Analysis
 1. Training Residuals:
 • Mean Residual:
 • Essentially zero, indicating unbiased predictions on training data.
@@ -76,7 +76,7 @@ The dataset used in this project includes real estate transaction records with f
 • Standard Deviation:
 • 225,909.81, showing a wider spread of prediction errors compared to training data.
 
-# Insights from Regression Modeling Results: 
+## Insights from Regression Modeling Results: 
 1. Mean Squared Error (MSE) and Root Mean Squared Error (RMSE):
 • High RMSE Values:
 • Indicate relatively high average prediction error.
@@ -93,7 +93,7 @@ The dataset used in this project includes real estate transaction records with f
 • High standard deviation reflects variability in home prices.
 • Indicates areas where the model struggles to capture accurate predictions.
 
-## Practical Implications for Homeowners Results: The model provides actionable insights into property pricing, helping both buyers and sellers in making informed decisions.
+### Practical Implications for Homeowners Results: The model provides actionable insights into property pricing, helping both buyers and sellers in making informed decisions.
 1. Focus on Key Areas:
 • Larger Living Spaces and Bedrooms:
 • Strongly influence home prices.
