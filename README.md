@@ -93,7 +93,7 @@ The dataset used in this project includes real estate transaction records with f
 • High standard deviation reflects variability in home prices.
 • Indicates areas where the model struggles to capture accurate predictions.
 
-# Practical Implications for Homeowners Results: The model provides actionable insights into property pricing, helping both buyers and sellers in making informed decisions.
+## Practical Implications for Homeowners Results: The model provides actionable insights into property pricing, helping both buyers and sellers in making informed decisions.
 1. Focus on Key Areas:
 • Larger Living Spaces and Bedrooms:
 • Strongly influence home prices.
