@@ -61,7 +61,7 @@ The dataset used in this project includes real estate transaction records with f
    * Train the regression model
    * Generate predictions and visualizations
 
-# Results
+## Results
 ## Model Performance: 
 ## Residual Analysis
 1. Training Residuals:
